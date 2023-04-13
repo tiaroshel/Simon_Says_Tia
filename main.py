@@ -16,4 +16,4 @@ for score in range(0, 10):
     if guess != simon:
         break
 
-print (f"Game Over! Your final score is {score}!")
+print (f"Game over! Your final score is {score}!")
